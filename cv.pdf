@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+    <nav> 
+             <a href="index.html">Accueil</a>
+                
+               
+                </nav>
+    <section class="CV-container"> 
+        <div class="CV-content"> 
+        <h1>Mon CV</h1><!--mon cv!-->
+        <p><strong>Nom :</strong>BEKOIN WENCESLAS</p>
+        <p><strong>développeur front-End</strong></p>
+        <p><strong>Téléphone :</strong>+2250779595199</p>
+        <p><strong>Mail :</strong>bekoinbekoin0@gmail.com</p>
+        <h2>Objectif</h2><!--mon objectif!-->
+        <p>Je cherche à me former plus au developpement web. </p>
+        <h3>Compétences</h3><!--mes compétences!-->
+        <p>- html</p>
+        <p>-python(flask)</p>
+        <p>-création de site personnel</p>
+        <p><strong>Formation :</strong></p>
+        <p>-2025 :Autoformation développement Web</p>
+        <p>-2025 : BAC A2</p>
+        <p>-2024-2025 : DUT- IDA </p>
+        <p>-2021 : Formation CMEAU (Centre Des Métiers de l'Eau),à Abidjan.</p>
+        <p>-2020 : Formation Académique 911 sécurité à Abidjan.</p>
+        <h4>Expérience</h4>
+        <p>Création d'un site sur la sagesse(html/CSS/JS)</p>
+        <p>Portfolio personnel</p>
+        <p>Actuellement agent de réseau à la SODECI</p>
+        </div>
+        <div class="cv-photo">
+            <img src="images/ma_ photo.jpg" alt="photo de profil">
+        </div>
+        <!--lien de téléchargement-->
+        <div style="margin-top: 1rem;">
+            <a href="cv.pdf"download>
+                <button>télécharger mon cv</button>
+            </a>
+        </div>
+
+    </section>
+    
+</body>
+</html>
